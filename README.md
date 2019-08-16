@@ -1,2 +1,2 @@
 # symfony-rest-api
-REST API using ymfony 4
+REST API using symfony 4
